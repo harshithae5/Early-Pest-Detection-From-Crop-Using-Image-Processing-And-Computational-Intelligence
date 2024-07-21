@@ -1,0 +1,1 @@
+# Early-Pest-Detection-From-Crop-Using-Image-Processing-And-Computational-Intelligence
